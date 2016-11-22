@@ -1,0 +1,11 @@
+D:\Рабочий стол\123\123\bin\Debug\123.exe.config
+D:\Рабочий стол\123\123\bin\Debug\123.exe
+D:\Рабочий стол\123\123\bin\Debug\123.pdb
+D:\Рабочий стол\123\123\obj\Debug\123.exe
+D:\Рабочий стол\123\123\obj\Debug\123.pdb
+D:\Рабочий стол\123\Aver\bin\Debug\123.exe.config
+D:\Рабочий стол\123\Aver\obj\Debug\123.exe
+D:\Рабочий стол\123\Aver\obj\Debug\123.pdb
+D:\Рабочий стол\123\Aver\bin\Debug\123.exe
+D:\Рабочий стол\123\Aver\bin\Debug\123.pdb
+D:\Рабочий стол\123\Aver\obj\Debug\Aver.csprojResolveAssemblyReference.cache

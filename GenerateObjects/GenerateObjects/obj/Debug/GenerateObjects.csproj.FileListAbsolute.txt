@@ -1,0 +1,18 @@
+C:\Users\aleks\Desktop\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.exe.config
+C:\Users\aleks\Desktop\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.exe
+C:\Users\aleks\Desktop\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.pdb
+C:\Users\aleks\Desktop\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.exe
+C:\Users\aleks\Desktop\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.pdb
+D:\студент\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.exe.config
+D:\студент\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.exe
+D:\студент\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.pdb
+D:\студент\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.exe
+D:\студент\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.pdb
+D:\студент\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.exe.config
+D:\Рабочий стол\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.exe
+D:\Рабочий стол\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.pdb
+D:\Рабочий стол\GenerateObjects\GenerateObjects\obj\Debug\GenerateObjects.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.exe
+D:\Рабочий стол\GenerateObjects\GenerateObjects\bin\Debug\GenerateObjects.pdb
